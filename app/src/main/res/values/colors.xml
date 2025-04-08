@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D4AF37</color>
+    <color name="colorGold">#D4AF37</color>
+    <color name="colorGoldLight">#FFD700</color>
+    <color name="colorGoldDark">#B8860B</color>
+    <color name="colorBackground">#000000</color>
+    <color name="colorSurface">#121212</color>
+    <color name="colorOnSurface">#E0E0E0</color>
+    <color name="colorCardBackground">#0D0D0D</color>
+    <color name="colorCardBorderStart">#1E1E1E</color>
+    <color name="colorCardBorderEnd">#2D2D2D</color>
+    <color name="colorTextPrimary">#E0E0E0</color>
+    <color name="colorTextSecondary">#ABABAB</color>
+    <color name="colorDivider">#333333</color>
+</resources>

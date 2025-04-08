@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WatchShop</string>
+    <string name="no_favourites_yet">No favourites yet</string>
+    <string name="todo">TODO</string>
+    <string name="favourites">Favourites</string>
+    <string name="delete_watch">Delete Watch</string>
+</resources>

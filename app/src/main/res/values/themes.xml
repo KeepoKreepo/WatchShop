@@ -1,0 +1,59 @@
+<!-- themes.xml -->
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.WatchShop" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <!-- Background and surface colors. -->
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <!-- Secondary colors. -->
+        <item name="colorSecondary">@color/colorGold</item>
+        <!-- Typography and shape. -->
+        <item name="textAppearanceHeadline6">@style/TextAppearance.WatchApp.Headline6</item>
+        <item name="textAppearanceSubtitle1">@style/TextAppearance.WatchApp.Subtitle1</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.WatchApp.Body1</item>
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.WatchApp.SmallComponent</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.WatchApp.MediumComponent</item>
+    </style>
+
+    <!-- Text appearances -->
+    <style name="TextAppearance.WatchApp.Headline6" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/colorTextPrimary</item>
+    </style>
+
+    <style name="TextAppearance.WatchApp.Subtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/colorTextSecondary</item>
+    </style>
+
+    <style name="TextAppearance.WatchApp.Body1" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/colorTextPrimary</item>
+    </style>
+
+    <!-- Shape appearances -->
+    <style name="ShapeAppearance.WatchApp.SmallComponent" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+
+    <style name="ShapeAppearance.WatchApp.MediumComponent" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+
+    <!-- Custom card style with gradient border -->
+    <style name="CustomDarkCard" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/colorCardBackground</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="strokeColor">@color/colorCardBorderStart</item>
+        <item name="cardElevation">6dp</item>
+    </style>
+</resources>
