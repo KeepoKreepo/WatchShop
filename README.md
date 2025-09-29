@@ -53,9 +53,16 @@ This application was developed for the **Mobile Applications** module as part of
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots - First image links to a YouTube video!
+[![Watch the video](https://github.com/user-attachments/assets/a3fd3286-8b67-4473-ba4a-b169c97b3513)]([https://www.youtube.com/watch?v=your_video_id_here](https://youtu.be/JUtqI85E024?si=-QZxR7kG2MHnEqsg))
+<img width="666" height="1416" alt="image" src="https://github.com/user-attachments/assets/ec79b42e-8fff-40ad-96e5-7a8cc43f9772" />
+<img width="662" height="1410" alt="image" src="https://github.com/user-attachments/assets/75448957-12bb-4d72-b0ec-5217b27b97b5" />
+<img width="652" height="1418" alt="image" src="https://github.com/user-attachments/assets/ffc4fdc0-b8e6-4771-b910-8e6dfd05c3b5" />
 
-> _Include screenshots of the app UI here if available._
+
+
+
+
 
 ---
 
