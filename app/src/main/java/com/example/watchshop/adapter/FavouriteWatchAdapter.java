@@ -18,7 +18,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.bumptech.glide.Glide;
 import com.example.watchshop.FavouriteRepository;
 import com.example.watchshop.WatchDetailActivity;
-import com.example.watchshop.WatchManager;
+import com.example.watchshop.manager.WatchManager;
 import com.example.watchshop.model.FavouriteWatch;
 import com.example.watchshop.R;
 import com.example.watchshop.model.Watch;

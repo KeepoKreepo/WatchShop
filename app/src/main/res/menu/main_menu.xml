@@ -5,4 +5,29 @@
         android:id="@+id/action_favourites"
         android:title="@string/favourites"
         app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sort"
+        android:icon="@drawable/ic_sort"
+        android:title="Sort"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/sort_price_low_high"
+                android:title="Price: Low to High" />
+            <item
+                android:id="@+id/sort_price_high_low"
+                android:title="Price: High to Low" />
+            <item
+                android:id="@+id/sort_brand_az"
+                android:title="Brand: A to Z" />
+            <item
+                android:id="@+id/sort_brand_za"
+                android:title="Brand: Z to A" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_logout"
+        android:title="@string/logout" app:showAsAction="never" />
 </menu>

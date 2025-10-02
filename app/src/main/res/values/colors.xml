@@ -15,4 +15,5 @@
     <color name="colorTextPrimary">#E0E0E0</color>
     <color name="colorTextSecondary">#ABABAB</color>
     <color name="colorDivider">#333333</color>
+    <color name="purple_500">#FF6200EE</color>
 </resources>

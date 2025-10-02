@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010810665825",
+    "project_id": "project-238ee",
+    "storage_bucket": "project-238ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010810665825:android:8d7baa29f36970c2056320",
+        "android_client_info": {
+          "package_name": "com.example.watchshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQHYN9w2vg0uQX_oqxXGoLIVOMxhezm74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

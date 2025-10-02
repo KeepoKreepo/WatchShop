@@ -1,5 +1,5 @@
 [versions]
-agp = "8.5.0"
+agp = "8.9.0"
 cardview = "1.0.0"
 glide = "4.16.0"
 junit = "4.13.2"
@@ -10,7 +10,9 @@ material = "1.12.0"
 okhttp = "4.11.0"
 recyclerview = "1.4.0"
 retrofit = "2.9.0"
-roomCompiler = "2.6.1"
+roomCompiler = "2.7.0"
+firebaseBom = "33.12.0"
+googleGmsGoogleServices = "4.4.2"
 
 [libraries]
 cardview = { module = "androidx.cardview:cardview", version.ref = "cardview" }
@@ -27,7 +29,11 @@ recyclerview = { module = "androidx.recyclerview:recyclerview", version.ref = "r
 retrofit = { module = "com.squareup.retrofit2:retrofit", version.ref = "retrofit" }
 room-compiler = { module = "androidx.room:room-compiler", version.ref = "roomCompiler" }
 room-runtime = { module = "androidx.room:room-runtime", version.ref = "roomCompiler" }
+firebase-bom = { group = "com.google.firebase", name = "firebase-bom", version.ref = "firebaseBom" }
+firebase-analytics = { group = "com.google.firebase", name = "firebase-analytics-ktx" }
+firebase-auth = { group = "com.google.firebase", name = "firebase-auth-ktx" }
+firebase-firestore = { group = "com.google.firebase", name = "firebase-firestore-ktx" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
-
+google-gms-google-services = { id = "com.google.gms.google-services", version.ref = "googleGmsGoogleServices" }
